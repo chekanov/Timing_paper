@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.6)  30 MAR 2020 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.6)  20 APR 2020 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -319,36 +319,18 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count117
-\output=\toks23
-\linenoprevgraf=\count118
-\linenumbersep=\dimen134
-\linenumberwidth=\dimen135
-\c@linenumber=\count119
-\c@pagewiselinenumber=\count120
-\c@LN@truepage=\count121
-\c@internallinenumber=\count122
-\c@internallinenumbers=\count123
-\quotelinenumbersep=\dimen136
-\bframerule=\dimen137
-\bframesep=\dimen138
-\bframebox=\box33
-LaTeX Info: Redefining \\ on input line 3056.
-)
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip66
 \subfigcapskip=\skip67
-\subfigcaptopadj=\dimen139
+\subfigcaptopadj=\dimen134
 \subfigbottomskip=\skip68
-\subfigcapmargin=\dimen140
+\subfigcapmargin=\dimen135
 \subfiglabelskip=\skip69
-\c@subfigure=\count124
-\c@lofdepth=\count125
-\c@subtable=\count126
-\c@lotdepth=\count127
+\c@subfigure=\count117
+\c@lofdepth=\count118
+\c@subtable=\count119
+\c@lotdepth=\count120
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -387,41 +369,41 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count128
-\float@exts=\toks24
-\float@box=\box34
-\@float@everytoks=\toks25
-\@floatcapt=\box35
+\c@float@type=\count121
+\float@exts=\toks23
+\float@box=\box33
+\@float@everytoks=\toks24
+\@floatcapt=\box34
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks26
-\verbatim@line=\toks27
+\every@verbatim=\toks25
+\verbatim@line=\toks26
 \verbatim@in@stream=\read1
 )
 (/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks28
-\SOUL@lasttoken=\toks29
-\SOUL@cmds=\toks30
-\SOUL@buffer=\toks31
-\SOUL@token=\toks32
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
 \SOUL@spaceskip=\skip72
-\SOUL@ttwidth=\dimen141
-\SOUL@uldp=\dimen142
-\SOUL@ulht=\dimen143
+\SOUL@ttwidth=\dimen136
+\SOUL@uldp=\dimen137
+\SOUL@ulht=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box36
-\UL@hyphenbox=\box37
+\UL@box=\box35
+\UL@hyphenbox=\box36
 \UL@skip=\skip73
-\UL@hook=\toks33
-\UL@height=\dimen144
-\UL@pe=\count129
-\UL@pixel=\dimen145
-\ULC@box=\box38
+\UL@hook=\toks32
+\UL@height=\dimen139
+\UL@pe=\count122
+\UL@pixel=\dimen140
+\ULC@box=\box37
 Package: ulem 2012/05/18
-\ULdepth=\dimen146
+\ULdepth=\dimen141
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
@@ -433,51 +415,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks34
-\ex@=\dimen147
+\@emptytoks=\toks33
+\ex@=\dimen142
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen148
+\pmbraise@=\dimen143
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count130
+\inf@bad=\count123
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count131
-\leftroot@=\count132
+\uproot@=\count124
+\leftroot@=\count125
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count133
-\DOTSCASE@=\count134
+\classnum@=\count126
+\DOTSCASE@=\count127
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box39
-\strutbox@=\box40
-\big@size=\dimen149
+\Mathstrutbox@=\box38
+\strutbox@=\box39
+\big@size=\dimen144
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count135
-\c@MaxMatrixCols=\count136
+\macc@depth=\count128
+\c@MaxMatrixCols=\count129
 \dotsspace@=\muskip11
-\c@parentequation=\count137
-\dspbrk@lvl=\count138
-\tag@help=\toks35
-\row@=\count139
-\column@=\count140
-\maxfields@=\count141
-\andhelp@=\toks36
-\eqnshift@=\dimen150
-\alignsep@=\dimen151
-\tagshift@=\dimen152
-\tagwidth@=\dimen153
-\totwidth@=\dimen154
-\lineht@=\dimen155
-\@envbody=\toks37
+\c@parentequation=\count130
+\dspbrk@lvl=\count131
+\tag@help=\toks34
+\row@=\count132
+\column@=\count133
+\maxfields@=\count134
+\andhelp@=\toks35
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks36
 \multlinegap=\skip75
 \multlinetaggap=\skip76
-\mathdisplay@stack=\toks38
+\mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -508,17 +490,17 @@ LaTeX Font Info:    ... okay on input line 136.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen156
-\scratchbox=\box41
-\nofMPsegments=\count143
-\nofMParguments=\count144
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen157
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count135
+\scratchdimen=\dimen151
+\scratchbox=\box40
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen152
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks39
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -558,7 +540,7 @@ LaTeX Font Info:    ... okay on input line 136.
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 136.
-\AtBeginShipoutBox=\box42
+\AtBeginShipoutBox=\box41
 Package hyperref Info: Link coloring ON on input line 136.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -567,7 +549,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count148
+\c@section@level=\count141
 )
 LaTeX Info: Redefining \ref on input line 136.
 LaTeX Info: Redefining \pageref on input line 136.
@@ -577,22 +559,22 @@ LaTeX Info: Redefining \nameref on input line 136.
 \@outlinefile=\write4
 \openout4 = `fcc_timing.out'.
 
-\c@lstlisting=\count149
+\c@lstlisting=\count142
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 219.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 216.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 219.
+LaTeX Font Info:    Try loading font information for U+msa on input line 216.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 219.
+LaTeX Font Info:    Try loading font information for U+msb on input line 216.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -605,50 +587,50 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [2]
-<timing_layer.pdf, id=77, 794.97pt x 614.295pt>
+<timing_layer.pdf, id=67, 794.97pt x 614.295pt>
 File: timing_layer.pdf Graphic file (type pdf)
 <use timing_layer.pdf>
-Package pdftex.def Info: timing_layer.pdf  used on input line 294.
+Package pdftex.def Info: timing_layer.pdf  used on input line 289.
 (pdftex.def)             Requested size: 330.05322pt x 255.04951pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 308.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 301.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 308.
- [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
- has been already used, duplicate ignored
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 301.
+ [2] [3pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.330 
-       <./timing_layer.pdf>] [4]
+l.330 I
+       n order to verify this point, we used a full {\sc geant}4 (version 10...
+ <./timing_layer.pdf>]
 
 pdfTeX warning: pdflatex (file ./timeECAL_2layers_1gev1.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<timeECAL_2layers_1gev1.pdf, id=115, 569.12625pt x 546.04pt>
+<timeECAL_2layers_1gev1.pdf, id=104, 569.12625pt x 546.04pt>
 File: timeECAL_2layers_1gev1.pdf Graphic file (type pdf)
 <use timeECAL_2layers_1gev1.pdf>
-Package pdftex.def Info: timeECAL_2layers_1gev1.pdf  used on input line 387.
+Package pdftex.def Info: timeECAL_2layers_1gev1.pdf  used on input line 377.
 (pdftex.def)             Requested size: 185.65297pt x 178.11911pt.
 
 
 pdfTeX warning: pdflatex (file ./timeECAL_2layers_10gev1.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<timeECAL_2layers_10gev1.pdf, id=116, 569.12625pt x 546.04pt>
+<timeECAL_2layers_10gev1.pdf, id=105, 569.12625pt x 546.04pt>
 File: timeECAL_2layers_10gev1.pdf Graphic file (type pdf)
 <use timeECAL_2layers_10gev1.pdf>
-Package pdftex.def Info: timeECAL_2layers_10gev1.pdf  used on input line 390.
+Package pdftex.def Info: timeECAL_2layers_10gev1.pdf  used on input line 380.
 (pdftex.def)             Requested size: 185.65297pt x 178.11911pt.
-[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
-has been already used, duplicate ignored
+[4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.
+2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.399 \clearpage
+l.388 \clearpage
                  <./timeECAL_2layers_1gev1.pdf> <./timeECAL_2layers_10gev1.pdf>
 ] (./Timing_layers_for_single_particles.tex
 
@@ -657,7 +639,7 @@ pdfTeX warning: pdflatex (file ./time_flight_length_neutron.pdf): PDF inclusion
 <time_flight_length_neutron.pdf, id=140, 569.12625pt x 542.025pt>
 File: time_flight_length_neutron.pdf Graphic file (type pdf)
 <use time_flight_length_neutron.pdf>
-Package pdftex.def Info: time_flight_length_neutron.pdf  used on input line 38.
+Package pdftex.def Info: time_flight_length_neutron.pdf  used on input line 35.
 
 (pdftex.def)             Requested size: 185.65297pt x 176.8094pt.
 
@@ -667,7 +649,7 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <time_flight_length_kion.pdf, id=141, 569.12625pt x 542.025pt>
 File: time_flight_length_kion.pdf Graphic file (type pdf)
 <use time_flight_length_kion.pdf>
-Package pdftex.def Info: time_flight_length_kion.pdf  used on input line 41.
+Package pdftex.def Info: time_flight_length_kion.pdf  used on input line 38.
 (pdftex.def)             Requested size: 185.65297pt x 176.8094pt.
 
 
@@ -676,7 +658,7 @@ pdfTeX warning: pdflatex (file ./time_flight_200.pdf): PDF inclusion: found PDF
 <time_flight_200.pdf, id=142, 569.12625pt x 542.025pt>
 File: time_flight_200.pdf Graphic file (type pdf)
 <use time_flight_200.pdf>
-Package pdftex.def Info: time_flight_200.pdf  used on input line 55.
+Package pdftex.def Info: time_flight_200.pdf  used on input line 53.
 (pdftex.def)             Requested size: 185.65297pt x 176.8094pt.
 
 
@@ -685,159 +667,159 @@ version <1.7>, but at most version <1.5> allowed
 <time_flight_20.pdf, id=143, 569.12625pt x 542.025pt>
 File: time_flight_20.pdf Graphic file (type pdf)
 <use time_flight_20.pdf>
-Package pdftex.def Info: time_flight_20.pdf  used on input line 58.
+Package pdftex.def Info: time_flight_20.pdf  used on input line 56.
 (pdftex.def)             Requested size: 185.65297pt x 176.8094pt.
-[6
+) [6
 
 ] [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.93 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-}) has been already used, duplicate ignored
+l.393 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.93 
-      <./time_flight_length_neutron.pdf> <./time_flight_length_kion.pdf> <./tim
-e_flight_200.pdf> <./time_flight_20.pdf>]) (./Timing_layers_for_darkpions.tex
-[8] [9]
+l.393 
+       <./time_flight_length_neutron.pdf> <./time_flight_length_kion.pdf> <./ti
+me_flight_200.pdf> <./time_flight_20.pdf>] (./Timing_layers_for_darkpions.tex
+[8]
 
 pdfTeX warning: pdflatex (file ./effic10a_med.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<effic10a_med.pdf, id=233, 451.6875pt x 451.6875pt>
+<effic10a_med.pdf, id=222, 451.6875pt x 451.6875pt>
 File: effic10a_med.pdf Graphic file (type pdf)
 <use effic10a_med.pdf>
-Package pdftex.def Info: effic10a_med.pdf  used on input line 92.
+Package pdftex.def Info: effic10a_med.pdf  used on input line 87.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic20a_med.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<effic20a_med.pdf, id=234, 451.6875pt x 451.6875pt>
+<effic20a_med.pdf, id=223, 451.6875pt x 451.6875pt>
 File: effic20a_med.pdf Graphic file (type pdf)
 <use effic20a_med.pdf>
-Package pdftex.def Info: effic20a_med.pdf  used on input line 95.
+Package pdftex.def Info: effic20a_med.pdf  used on input line 90.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic30a_med.pdf): PDF inclusion: found PDF ve
 rsion <1.7>, but at most version <1.5> allowed
-<effic30a_med.pdf, id=235, 451.6875pt x 451.6875pt>
+<effic30a_med.pdf, id=224, 451.6875pt x 451.6875pt>
 File: effic30a_med.pdf Graphic file (type pdf)
 <use effic30a_med.pdf>
-Package pdftex.def Info: effic30a_med.pdf  used on input line 99.
+Package pdftex.def Info: effic30a_med.pdf  used on input line 94.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic100a_med.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<effic100a_med.pdf, id=236, 451.6875pt x 451.6875pt>
+<effic100a_med.pdf, id=225, 451.6875pt x 451.6875pt>
 File: effic100a_med.pdf Graphic file (type pdf)
 <use effic100a_med.pdf>
-Package pdftex.def Info: effic100a_med.pdf  used on input line 102.
+Package pdftex.def Info: effic100a_med.pdf  used on input line 97.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic500a_med.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<effic500a_med.pdf, id=237, 451.6875pt x 451.6875pt>
+<effic500a_med.pdf, id=226, 451.6875pt x 451.6875pt>
 File: effic500a_med.pdf Graphic file (type pdf)
 <use effic500a_med.pdf>
-Package pdftex.def Info: effic500a_med.pdf  used on input line 106.
+Package pdftex.def Info: effic500a_med.pdf  used on input line 101.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic1000a_med.pdf): PDF inclusion: found PDF 
 version <1.7>, but at most version <1.5> allowed
-<effic1000a_med.pdf, id=238, 451.6875pt x 451.6875pt>
+<effic1000a_med.pdf, id=227, 451.6875pt x 451.6875pt>
 File: effic1000a_med.pdf Graphic file (type pdf)
 <use effic1000a_med.pdf>
-Package pdftex.def Info: effic1000a_med.pdf  used on input line 109.
+Package pdftex.def Info: effic1000a_med.pdf  used on input line 104.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
-LaTeX Warning: Float too large for page by 2.05396pt on input line 119.
+LaTeX Warning: Float too large for page by 2.05396pt on input line 114.
 
 
 
 pdfTeX warning: pdflatex (file ./effic10a.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<effic10a.pdf, id=239, 451.6875pt x 451.6875pt>
+<effic10a.pdf, id=228, 451.6875pt x 451.6875pt>
 File: effic10a.pdf Graphic file (type pdf)
 <use effic10a.pdf>
-Package pdftex.def Info: effic10a.pdf  used on input line 127.
+Package pdftex.def Info: effic10a.pdf  used on input line 120.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic20a.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<effic20a.pdf, id=240, 451.6875pt x 451.6875pt>
+<effic20a.pdf, id=229, 451.6875pt x 451.6875pt>
 File: effic20a.pdf Graphic file (type pdf)
 <use effic20a.pdf>
-Package pdftex.def Info: effic20a.pdf  used on input line 130.
+Package pdftex.def Info: effic20a.pdf  used on input line 123.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic30a.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<effic30a.pdf, id=241, 451.6875pt x 451.6875pt>
+<effic30a.pdf, id=230, 451.6875pt x 451.6875pt>
 File: effic30a.pdf Graphic file (type pdf)
 <use effic30a.pdf>
-Package pdftex.def Info: effic30a.pdf  used on input line 134.
+Package pdftex.def Info: effic30a.pdf  used on input line 127.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic100a.pdf): PDF inclusion: found PDF versi
 on <1.7>, but at most version <1.5> allowed
-<effic100a.pdf, id=242, 451.6875pt x 451.6875pt>
+<effic100a.pdf, id=231, 451.6875pt x 451.6875pt>
 File: effic100a.pdf Graphic file (type pdf)
 <use effic100a.pdf>
-Package pdftex.def Info: effic100a.pdf  used on input line 137.
+Package pdftex.def Info: effic100a.pdf  used on input line 130.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic500a.pdf): PDF inclusion: found PDF versi
 on <1.7>, but at most version <1.5> allowed
-<effic500a.pdf, id=243, 451.6875pt x 451.6875pt>
+<effic500a.pdf, id=232, 451.6875pt x 451.6875pt>
 File: effic500a.pdf Graphic file (type pdf)
 <use effic500a.pdf>
-Package pdftex.def Info: effic500a.pdf  used on input line 141.
+Package pdftex.def Info: effic500a.pdf  used on input line 134.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
 
 pdfTeX warning: pdflatex (file ./effic1000a.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<effic1000a.pdf, id=244, 451.6875pt x 451.6875pt>
+<effic1000a.pdf, id=233, 451.6875pt x 451.6875pt>
 File: effic1000a.pdf Graphic file (type pdf)
 <use effic1000a.pdf>
-Package pdftex.def Info: effic1000a.pdf  used on input line 144.
+Package pdftex.def Info: effic1000a.pdf  used on input line 137.
 (pdftex.def)             Requested size: 165.02345pt x 165.02652pt.
 
-LaTeX Warning: Float too large for page by 2.05396pt on input line 153.
+LaTeX Warning: Float too large for page by 2.05396pt on input line 146.
 
-) [10] [11pdfTeX warning (ext4): destination with the same identifier (name{fig
-ure.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.424 \newpage
-               <./effic10a_med.pdf> <./effic20a_med.pdf> <./effic30a_med.pdf> <
-./effic100a_med.pdf> <./effic500a_med.pdf> <./effic1000a_med.pdf>] [12pdfTeX wa
-rning (ext4): destination with the same identifier (name{figure.6}) has been al
-ready used, duplicate ignored
+) [9] [10pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.424 \newpage
-               <./effic10a.pdf> <./effic20a.pdf> <./effic30a.pdf> <./effic100a.
-pdf> <./effic500a.pdf> <./effic1000a.pdf>] (./fcc_timing.bbl) [13]
-(./appendix.tex
+l.412 
+       <./effic10a_med.pdf> <./effic20a_med.pdf> <./effic30a_med.pdf> <./effic1
+00a_med.pdf> <./effic500a_med.pdf> <./effic1000a_med.pdf>] [11pdfTeX warning (e
+xt4): destination with the same identifier (name{figure.6}) has been already us
+ed, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.412 
+       <./effic10a.pdf> <./effic20a.pdf> <./effic30a.pdf> <./effic100a.pdf> <./
+effic500a.pdf> <./effic1000a.pdf>] [12] (./fcc_timing.bbl) [13] (./appendix.tex
+
 
 pdfTeX warning: pdflatex (file ./effic20a_beta.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<effic20a_beta.pdf, id=330, 451.6875pt x 451.6875pt>
+<effic20a_beta.pdf, id=326, 451.6875pt x 451.6875pt>
 File: effic20a_beta.pdf Graphic file (type pdf)
 <use effic20a_beta.pdf>
 Package pdftex.def Info: effic20a_beta.pdf  used on input line 12.
@@ -846,39 +828,39 @@ Package pdftex.def Info: effic20a_beta.pdf  used on input line 12.
 
 pdfTeX warning: pdflatex (file ./effic1000a_beta.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<effic1000a_beta.pdf, id=331, 451.6875pt x 451.6875pt>
+<effic1000a_beta.pdf, id=327, 451.6875pt x 451.6875pt>
 File: effic1000a_beta.pdf Graphic file (type pdf)
 <use effic1000a_beta.pdf>
 Package pdftex.def Info: effic1000a_beta.pdf  used on input line 15.
 (pdftex.def)             Requested size: 169.15314pt x 169.15494pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 441.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
  [14pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.441 \end{document}
+l.430 \end{document}
                     
 
  <./effic20a_beta.pdf> <./effic1000a_beta.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 441.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
 
 (./fcc_timing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 441.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 441.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
 Package rerunfilecheck Info: File `fcc_timing.out' has not changed.
 (rerunfilecheck)             Checksum: B40CBD6B87D8CA0B2F9A037526D8CCCD;357.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 441.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
  ) 
 Here is how much of TeX's memory you used:
- 9491 strings out of 494923
- 136125 string characters out of 6180742
- 253142 words of memory out of 5000000
- 12540 multiletter control sequences out of 15000+600000
- 15426 words of font info for 60 fonts, out of 8000000 for 9000
+ 9286 strings out of 494923
+ 133047 string characters out of 6180742
+ 249928 words of memory out of 5000000
+ 12340 multiletter control sequences out of 15000+600000
+ 15427 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,8n,40p,626b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,40p,559b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
@@ -890,18 +872,17 @@ s/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmtt9.pfb>
-Output written on fcc_timing.pdf (14 pages, 1145004 bytes).
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmtt9.pfb>
+Output written on fcc_timing.pdf (14 pages, 1135122 bytes).
 PDF statistics:
- 424 PDF objects out of 1000 (max. 8388607)
- 351 compressed objects within 4 object streams
+ 417 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  70 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
