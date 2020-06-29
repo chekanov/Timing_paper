@@ -46,16 +46,19 @@ Z.~Ahmed, et~al.,
   2018).
 \newline\urlprefix\url{http://cds.cern.ch/record/2623663}
 
-\bibitem{FERRI2020162159}
-F.~Ferri,
-  \href{http://www.sciencedirect.com/science/article/pii/S0168900219306102}{The
-  cms ecal phase-2 upgrade for high precision energy and timing measurements},
-  Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
-  Spectrometers, Detectors and Associated Equipment 958 (2020) 162159,
-  proceedings of the Vienna Conference on Instrumentation 2019.
-\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.nima.2019.04.113}
-  {\path{doi:https://doi.org/10.1016/j.nima.2019.04.113}}.
-\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168900219306102}
+\bibitem{CMS:2667167}
+{CMS Collaboration}, \href{https://cds.cern.ch/record/2667167}{{A MIP Timing
+  Detector for the CMS Phase-2 Upgrade}}, Tech. Rep. CERN-LHCC-2019-003.
+  CMS-TDR-020, CERN, Geneva (Mar 2019).
+\newline\urlprefix\url{https://cds.cern.ch/record/2667167}
+
+\bibitem{Collaboration:2293646}
+{CMS Collaboration}, \href{https://cds.cern.ch/record/2293646}{{The Phase-2
+  Upgrade of the CMS Endcap Calorimeter}}, Tech. Rep. CERN-LHCC-2017-023.
+  CMS-TDR-019, CERN, Geneva, technical Design Report of the endcap calorimeter
+  for the Phase-2 upgrade of the CMS experiment, in view of the HL-LHC run.
+  (Nov 2017).
+\newline\urlprefix\url{https://cds.cern.ch/record/2293646}
 
 \bibitem{Allison2016186}
 J.~Allison, et~al., {Recent developments in Geant4}, Nuclear Instruments and
@@ -95,6 +98,11 @@ CMS~Collaboration, A.~M. Sirunyan, et~al., {Search for new particles decaying
 \newblock \href {http://arxiv.org/abs/1810.10069} {\path{arXiv:1810.10069}},
   \href {http://dx.doi.org/10.1007/JHEP02(2019)179}
   {\path{doi:10.1007/JHEP02(2019)179}}.
+
+\bibitem{Sjostrand:2007gs}
+T.~Sjostrand, S.~Mrenna, P.~Z. Skands, {A Brief Introduction to PYTHIA 8.1},
+  Comput. Phys. Commun. 178 (2008) 852--867.
+\newblock \href {http://arxiv.org/abs/0710.3820} {\path{arXiv:0710.3820}}.
 
 \bibitem{prive}
 K.~Pedro, P.~Schwaller, Private communication. We thank Dr. P.Kevin and
