@@ -355,21 +355,35 @@ Therefore, the hits registered by TL1 and TL2 will be considered simultaneous fo
 standard 1~ns resolution readout. They will be fully correlated in time, and will be identified as a single crossing particle.
 
 If the resolution of the timing layer is of the order of 10 -- 20~ps, a physics measurement of TOF would be possible.
-To check this, 
-Fig.~\ref{fig:timediff} shows the hit time distribution for (anti) deuterons, denoted as $d^{\pm}$. 
+To check this, the arraval time of the earliest hits was calculated for (anti) deuterons (denoted as $d^{\pm}$) using the same
+simulation setup as before.
+Deuterons are 14 times heavier than pions, can be produced in the primary interactions, 
+and their interaction with the detector material is well understood.  
+The difference between the distributions of hits of pion and $d^{\pm}$ can indicate
+a sensitivity of pico-second detectors to particles with different masses. 
+ 
+ 
+Fig.~\ref{fig:timediff} shows the hit time distribution for $d^{\pm}$. 
 The distributions are significantly different from the $\pi^{\pm}$ case. According to the simulation, the 1~GeV
 (anti) deuterons should be measured with the time delay of 0.7 -- 1.4~ns between the last and first layers.
 The value of 0.7~ns was estimated from the peak of the Landau distribution used to fit the $d^{\pm}$ 
 curve presented in Fig.~\ref{fig:timediff}(a),
 while 1.4~ns was obtained from the mean of this distribution. Even for the most conservative 0.7~ns value, this indicates 
- that 1~GeV deuterons can be separated from pions that have 0.5~ns time difference. Such a separation can be observed 
- using a tens-of-picosecond detector.
- For the 10~GeV particles shown in Fig.~\ref{fig:timediff}(b), no separation between $d^{\pm}$ and $\pi^{\pm}$ can be observed.
+that 1~GeV deuterons can be separated from pions that have 0.5~ns time difference. Such a separation can be observed 
+using a tens-of-picosecond detector since the hits produced by the electromagnetic shower
+are sufficiently fast.
+
+For realistic collider environments, 1~GeV range momentum range is rather low
+for physics studies. For the 10~GeV particles shown in Fig.~\ref{fig:timediff}(b), 
+no separation between $d^{\pm}$ and $\pi^{\pm}$ can be observed.
+This result is totally expected since the masses of pions and deuterons are small
+for effective separation of these particles at a momentum above 10~GeV. 
+
 
 In summary, we have illustrated that a typical difference between TL2 and TL1 (which is approximated by the difference
 between the last and first ECAL layer) is sufficient for particle identification using the TOF.
 As an example, a $d^{\pm}$ can be identified and separated from pions for momentum less than 1~GeV.
-This means that  particles heavier than deuterons should be identifiable for a momentum larger than 1~GeV.
+However, particles heavier than deuterons should be identifiable for a momentum larger than 1~GeV.
 In the following, we will abstract from the {\sc geant}4 simulations and calculate the kinematic regions  where the 
  identification of heavy stable  particles using timing layers is possible.
  
