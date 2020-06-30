@@ -222,7 +222,7 @@ new event signatures originating from physics beyond the standard model.
 \section{Introduction}
 
 Future particle colliders such as CLIC \cite{Linssen:1425915}, the International Linear Collider (ILC) \cite{Behnke:2013xla}, the high-energy LHC (HE-LHC),
-and $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative, SppC~\cite{Tang:2015qga} 
+and $pp$ colliders of the European initiative, FCC-hh~\cite{Benedikt:2206376} and the Chinese initiative (CEPC \cite{CEPCStudyGroup:2018ghi} and  SppC~\cite{Tang:2015qga}) 
 will motivate  high-precision measurements of particles and jets 
 at large transverse momenta. 
 Timing information in these experiments  can be used to improve particle and jet reconstruction and to suppress backgrounds.
@@ -260,15 +260,16 @@ significant challenge due to the large cost.
 As part of the HL-LHC upgrade program, CMS and ATLAS experiments are designing high-precision timing detectors with 
  resolution of about 30~ps~\cite{Collaboration:2623663,CMS:2667167}. They are based on silicon sensors that add an 
  extra ``time dimension’’ to event reconstruction. 
+In the case of the CMS High Granularity Calorimeter \cite{Collaboration:2293646},
+six  million channels of the endcap calorimeter require a dedicated front-end with $\simeq$ 20 picosecond time binning.
 
-As mentioned above, such timing capabilities have not been fully explored for detectors beyond the HL-LHC upgrade, such as 
- the ECAL and HCAL of the CLIC/FCC detectors. 
-It is considered an expensive option for the many millions of channels of these highly granular detectors. 
-For example, in the case of the CMS High Granularity Calorimeter \cite{Collaboration:2293646},
-six  million channels for the endcup calorimeter require a dedicated front-end with $\simeq$ 20 picosecond time binning, which represents 
-a significant challenge. 
+
+As mentioned above, timing capabilities have not been fully explored for detectors beyond the HL-LHC upgrade, such as 
+ the ECAL and HCAL of the future detectors for the CLIC, CEPC, FCC and SppC experiments. 
+It is considered an expensive option for the many millions of channels of these highly granular detectors,
+assuming that high-precision timing is implemented for all calorimeter cells.  
 This opens an opportunity to investigate a cost-effective ``timing layer'', with time resolution better than 30~ps,  
- to be installed in front of barrel and forward calorimeters.
+to be installed in front of barrel and endcap calorimeters.
 
 In this paper we  will investigate the physics advantages of such timing layers in the post-LHC experiments. 
 Typically, thin detectors in front of calorimeters are called ``preshower'', and were used in the  ZEUS, CDF, ATLAS and CMS experiments.
@@ -339,33 +340,34 @@ corresponding to 35~X$_{0}$. The first 20 layers use tungsten of 3~mm thickness,
 twice the thickness, and thus have half the  sampling fraction.  
 The distance between the centers of the first and last ECAL layers is about 24~cm.  
 
-To verify that the time differences between the last and the first ECAL layer is close to the time
-required for a particle that travels with speed of light, and can be neglected for timing layers of 1~ns resolution,
-  two samples of single pions ($\pi^\pm$) with momenta of 1 and 10~GeV respectively were created. The
- pseudorapidity ($\eta$) for all pions was fixed at $\eta=0$ (central region). 
+To check that the time differences between the last and the first ECAL layer is close to the time
+required for a particle that travels with the speed of light,
+two samples of single pions ($\pi^\pm$) with momenta of 1 and 10~GeV respectively were created. The
+pseudorapidity ($\eta$) for all pions was fixed at $\eta=0$ (central region). 
 The particles were reconstructed in the ECAL, and the time difference $\Delta T= T_{\mathrm{last}}-T_{\mathrm{first}}$ of the hits 
  between the last and first ECAL layers was calculated.
 Only the hits arriving first in time were considered since the electronics typically register\footnote{The Monte Carlo studies in
  this paper do not include a simulation of calorimeter electronics.} the fastest hits, while slower hits can be saved in pipeline buffers.
 
 Figure~\ref{fig:timediff} shows the time distribution of the earliest hits 
-for 1 and 10~GeV pions. It can be seen that the peak positions of the distributions are closer 
+for 1 and 10~GeV pions. It can be seen that the peak positions of the distributions are smaller 
 than 1~ns, as expected for the distance of 24~cm between the last and first ECAL layers.
 Therefore, the hits registered by TL1 and TL2 will be considered simultaneous for the
 standard 1~ns resolution readout. They will be fully correlated in time, and will be identified as a single crossing particle.
 
-If the resolution of the timing layer is of the order of 10 -- 20~ps, a physics measurement of TOF would be possible.
+If the resolution of the timing layer is of the order of 10 -- 20~ps, TOF can be used to identify particles
+which are heavier than pions. 
 To check this, the arraval time of the earliest hits was calculated for (anti) deuterons (denoted as $d^{\pm}$) using the same
 simulation setup as before.
 Deuterons are 14 times heavier than pions, can be produced in the primary interactions, 
 and their interaction with the detector material is well understood.  
-The difference between the distributions of hits of pion and $d^{\pm}$ can indicate
-a sensitivity of pico-second detectors to particles with different masses. 
+If the difference between hit arraval times for  $\pi^\pm$ and $d^{\pm}$ are larger than 20~ps, this   
+would indicate a sensitivity of tens-of-picosecond detectors to particles with different masses. 
  
  
-Fig.~\ref{fig:timediff} shows the hit time distribution for $d^{\pm}$. 
+Fig.~\ref{fig:timediff} shows the time distribution of the earliest hits for $d^{\pm}$. 
 The distributions are significantly different from the $\pi^{\pm}$ case. According to the simulation, the 1~GeV
-(anti) deuterons should be measured with the time delay of 0.7 -- 1.4~ns between the last and first layers.
+(anti)deuterons should be measured with the time delay of 0.7 -- 1.4~ns between the last and first layers.
 The value of 0.7~ns was estimated from the peak of the Landau distribution used to fit the $d^{\pm}$ 
 curve presented in Fig.~\ref{fig:timediff}(a),
 while 1.4~ns was obtained from the mean of this distribution. Even for the most conservative 0.7~ns value, this indicates 
@@ -373,12 +375,11 @@ that 1~GeV deuterons can be separated from pions that have 0.5~ns time differenc
 using a tens-of-picosecond detector since the hits produced by the electromagnetic shower
 are sufficiently fast.
 
-For realistic collider environments, 1~GeV range momentum range is rather low
-for physics studies. For the 10~GeV particles shown in Fig.~\ref{fig:timediff}(b), 
+For particle identification in realistic collider environments, 1~GeV range momentum range is rather low. 
+For the 10~GeV particles shown in Fig.~\ref{fig:timediff}(b), 
 no separation between $d^{\pm}$ and $\pi^{\pm}$ can be observed.
 This result is totally expected since the masses of pions and deuterons are small
 for effective separation of these particles at a momentum above 10~GeV. 
-
 
 In summary, we have illustrated that a typical difference between TL2 and TL1 (which is approximated by the difference
 between the last and first ECAL layer) is sufficient for particle identification using the TOF.

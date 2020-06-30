@@ -26,6 +26,11 @@ M.~Benedikt, \href{http://cds.cern.ch/record/2206376}{{The Global Future
   Workshop on the Future of High Energy Physics, BNL, USA, Dec. 15-18, 2013}.
 \newline\urlprefix\url{http://cds.cern.ch/record/2206376}
 
+\bibitem{CEPCStudyGroup:2018ghi}
+{CEPC Study Group}, {CEPC Conceptual Design Report: Volume 2 - Physics \&
+  Detector}IHEP-CEPC-DR-2018-02, IHEP-EP-2018-01, IHEP-TH-2018-01.
+\newblock \href {http://arxiv.org/abs/1811.10545} {\path{arXiv:1811.10545}}.
+
 \bibitem{Tang:2015qga}
 J.~Tang, et~al., {Concept for a Future Super Proton-Proton Collider} (2015).
 \newblock \href {http://arxiv.org/abs/1507.03224} {\path{arXiv:1507.03224}}.
